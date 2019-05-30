@@ -1,11 +1,3 @@
----
-title: 新概念英语第一册 03 Sorry, sir
-date: 2019-05-30 19:58:31
-categories:
-- english
-tags:
-- 新概念英语第一册
----
 
 Does the man get his umbrella back?
 

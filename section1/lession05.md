@@ -1,11 +1,4 @@
----
-title: 新概念英语第一册 05 Nice to meet you
-date: 2019-05-30 20:22:00
-categories:
-- english
-tags:
-- 新概念英语第一册
----
+
 
 Is Chang-Woo chinese?
 
